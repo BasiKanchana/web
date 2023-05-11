@@ -1,0 +1,123 @@
+* {
+    box-sizing: border-box;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0px;
+    text-decoration: none;
+}
+.header-part {
+    width: 100%;
+}
+.vertical-menu {
+    width:30% ;
+    border:2px solid #0a4afa ;
+}
+.header-left {
+    width: 70%;
+    border:2px solid #fc059dec ;
+}
+nav li  {
+    text-decoration: none;
+    list-style: none;
+}
+nav li a {
+    text-decoration:none;
+
+}
+.nav-item  {
+  
+    width:100% ;
+    height:100% ;
+    /* border:2px solid #f55211 ; */
+    display: block;
+ 
+}
+.nav-item:hover {
+    color: white !important;
+    background-color: blue;
+    margin:0px ;
+}
+.icon-link {
+    max-width:100% ;
+    padding-top: 10px;
+    height: 50px;
+    line-height: 50px;
+}
+ .nav-item  .icon-link a{
+    text-decoration: none;
+}
+.icon_name {
+    padding:20px ;
+}
+.search-box {
+    position: relative;
+    width:100% ;
+    height:50vh ;
+}
+.star-button {
+    position: absolute;
+    right:200px ;
+    top:4px;
+   height:30px ;
+
+
+}
+.employee-image {
+    position: absolute;
+    right:150px ;
+    width:35px ;
+    height:35px ;
+    top: 1px;
+    border-radius:100px ;
+}
+.view-budget {
+    background-image: url(images/image-2.jpg)!important;
+    padding:20px ;
+
+}
+.order--statistics-range {
+    width:50% ;
+    float: left;
+}
+.order-statistics-image {
+    width: 50%;
+    float: right;
+}
+.circle-range {
+    width:100% ;
+    height:40px ;
+}
+.total-balance-icon {
+    width:20% ;
+    height:50px ;
+    line-height:50px ;
+    background-color: #ccd2f1;
+    text-align:center;
+    float: left;
+}
+.total-balance {
+    width:80% ;
+    height:50px ;
+    /* line-height:50px ; */
+    float: left;
+    padding-left:5px  ;
+}
+.company-growth-1 {
+    width:49% ;
+    float: left;
+}
+.company-growth-2 {
+    width:49% ;
+    float: right;
+
+}
+.user-details {
+    width:99%
+}
+.user-details-left {
+    width:20% ;
+    float: left;
+}
+.user-details-right {
+    width:80% ;
+    float: left;
+}
