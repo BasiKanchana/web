@@ -1,0 +1,25 @@
+{
+    "students": [
+        {
+            "name": "Devender",
+            "age": 40,
+            "isDevelop": true
+        },
+        {
+            "name": "Rohini",
+            "age": 25,
+            "isDevelop": true
+        },
+        {
+            "name": "Vanmayi",
+            "age": 7,
+            "isDevelop": true
+        },
+        {
+            "name": "Lalitha",
+            "age": 28,
+            "isDevelop": true
+        }
+
+    ]
+}

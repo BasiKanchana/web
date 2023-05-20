@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Samsung A40",
+        "price":{"4gm":14000, "6gb": 26000}
+
+    },
+    {
+        "name": "Samsung A50",
+        "price":{"4gm":14000, "6gb": 26000}
+
+    }
+]
